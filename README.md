@@ -200,7 +200,7 @@ All security testing was performed against deliberately vulnerable applications 
 
 ## 👩‍💻 Author
 
-**Khadija Amer** — BCSF24A030  
+**Khadija Amer**  
 Punjab University College of Information Technology (PUCIT)  
 Course: Information Security | Spring 2026  
 Instructor: Sir Shehryar Raza
